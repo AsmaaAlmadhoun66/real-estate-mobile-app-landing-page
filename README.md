@@ -1,4 +1,4 @@
-# Angel Real Estate — Mobile App Landing Page
+# Angel Real Estate - Mobile App Landing Page
 
 A responsive, bilingual (English / Arabic RTL) landing page template for showcasing a real estate owners mobile application. Built with vanilla HTML, CSS, and jQuery—no build step required.
 
